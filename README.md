@@ -5,3 +5,4 @@ par la même occasion l'utilisation de l'outil de contrôle dd version le plus p
 Git en loccurence.
 Un simple exercice pour comprendre le branchement, on modifie le fichier README dans
 la nouvelle branche créee.
+ceci est une modification faite en local! puis envoyer en ligne
